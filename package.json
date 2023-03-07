@@ -1,6 +1,9 @@
 {
   "scripts": {
-    "test": "jest"
+    "test:add": "jest add.test.js",
+    "test:subtract": "jest subtract.test.js",
+    "test:divide": "jest divide.test.js",
+    "test:multiply": "jest multiply.test.js"
   },
   "devDependencies": {
     "jest": "^29.5.0"
